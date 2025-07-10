@@ -46,7 +46,7 @@ Improve UI with Streamlit components
 
 **Author**
 Shruti Rathore
-B.Tech CSE (DS), 2nd Year, 4th Semester
+B.Tech CSE (DS)
 Noida Institute of Engineering and Technology, Greater Noida
-2201331540185
+
 
