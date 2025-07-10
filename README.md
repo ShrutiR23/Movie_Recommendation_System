@@ -29,12 +29,12 @@ This project is a **Movie Recommendation System** that uses machine learning to 
 ## 📁 Repository Contents
 
 📦 Movie_Recommendation_System/
-├── README.md # Project overview
-├── Shruti_Rathore_Mini_Project_Report.pdf # Minor project report
-├── movie-recommendation-system.ipynb # Core notebook with vectorization
-├── tmdb_5000_movies.csv # Dataset used
-├── app.py # Streamlit app for movie recommendation
-├── requirements.txt # Dependencies for running the app
+- README.md # Project overview
+- Shruti_Rathore_Mini_Project_Report.pdf # Minor project report
+- movie-recommendation-system.ipynb # Core notebook with vectorization
+- tmdb_5000_movies.csv # Dataset used
+- app.py # Streamlit app for movie recommendation
+- requirements.txt # Dependencies for running the app
 
 ---
 
