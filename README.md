@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-This project is a **Movie Recommendation System** that uses machine learning to deliver personalized movie suggestions. It applies **vectorization (TF-IDF)** for content-based filtering and features a clean **Streamlit** web interface for user interaction.
+This project is a **Movie Recommendation System** that uses machine learning to deliver personalized movie suggestions. It applies **CountVectorizer** for content-based filtering and features a clean **Streamlit** web interface for user interaction.
 
 ---
 
@@ -9,7 +9,7 @@ This project is a **Movie Recommendation System** that uses machine learning to 
 - **Personalization**: Recommend movies tailored to individual preferences.
 - **Accuracy**: Analyze genres, keywords, cast, and user history.
 - **Diversity**: Include a wide range of movies across cultures and genres.
-- **Vectorization**: Use TF-IDF and cosine similarity for feature comparison.
+- **Vectorization**: Use CountVectorizer and cosine similarity for feature comparison.
 - **Engagement**: Enable interactivity through a Streamlit web app.
 - **Scalability**: Handle large datasets like TMDB 5000+ movies.
 
@@ -19,7 +19,7 @@ This project is a **Movie Recommendation System** that uses machine learning to 
 
 - **Python**
 - **Pandas**, **NumPy**
-- **Scikit-learn** (TF-IDF, Cosine Similarity)
+- **Scikit-learn** (CountVectorizer, Cosine Similarity)
 - **Streamlit** (for web interface)
 - **NLTK** / **Regex** (for text preprocessing)
 - **Jupyter Notebook**
